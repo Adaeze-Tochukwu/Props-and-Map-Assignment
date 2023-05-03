@@ -1,0 +1,21 @@
+nav {
+  border-bottom: 1px solid lightgray;
+  padding: 10px;
+
+  a {
+    font-size: 30px;
+    margin-right: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: #000;
+  }
+
+  a:first-child {
+    text-decoration: underline;
+    color: green;
+  }
+
+  a:hover {
+    color: green;
+  }
+}
